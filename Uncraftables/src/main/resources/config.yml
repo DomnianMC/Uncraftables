@@ -8,6 +8,10 @@ craft:
   blazerod: true
   nametag: true
   firecharge: true
+  horsearmor:
+    diamondhorsearmor: true
+    goldhorsearmor: true
+    ironhorsearmor: true
   cd:
     wait: true
     11: true
