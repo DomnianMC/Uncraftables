@@ -1,3 +1,29 @@
 #Beginning of Config
 #Authors willies952002, Clarkcj
 #Version 0.1
+craft:
+  sand:
+    red: true
+    white: true
+  blazerod: true
+  nametag: true
+  firecharge: true
+  cd:
+    wait: true
+    11: true
+    ward: true
+    strad: true
+    stal: true
+    mellohi: true
+    mall: true
+    far: true
+    chirp: true
+    blocks:true
+    cat: true
+    13: true
+smelt:
+  sponge: true
+brew:
+  expBottle: true
+  enchantBottle:true
+  
