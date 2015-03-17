@@ -7,6 +7,20 @@ craft:
     white: true
   blazerod: true
   nametag: true
+  firecharge: true
+  cd:
+    wait: true
+    11: true
+    ward: true
+    strad: true
+    stal: true
+    mellohi: true
+    mall: true
+    far: true
+    chirp: true
+    blocks:true
+    cat: true
+    13: true
 smelt:
   sponge: true
 brew:
