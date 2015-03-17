@@ -1,3 +1,6 @@
 #Beginning of Config
 #Authors willies952002, Clarkcj
 #Version 0.1
+sand:
+   red:true
+   white:true
