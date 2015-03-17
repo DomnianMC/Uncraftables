@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+E:\GIT Repositories\Uncraftables\.metadata\.plugins\org.eclipse.jdt.core
+521762418.index
