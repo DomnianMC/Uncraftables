@@ -6,12 +6,13 @@ public class Uncraftables extends JavaPlugin {
 
 	@Override
 	public void onEnable() {
-		
+		this.saveDefaultConfig();
+
 	}
-	
+
 	@Override
 	public void onDisable() {
-		
+
 	}
-	
+
 }
