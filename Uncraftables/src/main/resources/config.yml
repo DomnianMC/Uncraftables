@@ -12,6 +12,16 @@ craft:
     diamondhorsearmor: true
     goldhorsearmor: true
     ironhorsearmor: true
+  ore:
+    netherquartzore: true
+    emeraldore:true
+    redstoneore:true
+    diamondore:true
+    lapislazulore:true
+    coalore:true
+    ironore:true
+    goldore:true
+  saddle:true
   cd:
     wait: true
     11: true
@@ -27,6 +37,8 @@ craft:
     13: true
 smelt:
   sponge: true
+  leather:true
+  
 brew:
   expBottle: true
   enchantBottle:true
